@@ -2,6 +2,6 @@
 My personal website
 sfdfksnksjdnvs
 
-#Education
+## Education
 Ingeniero Agronomo
 Especialista en Teledetección y SIG
